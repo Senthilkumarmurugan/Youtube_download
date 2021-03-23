@@ -1,2 +1,2 @@
-pip install pytube
-pip install streamlit
+pytube==10.6.0
+streamlit==0.78.0
